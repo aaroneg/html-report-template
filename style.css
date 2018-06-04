@@ -1,4 +1,36 @@
 body {
     background-color: #141411;
-    color: #E6E6E6
+    color: #E6E6E6;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
+
+h1 {
+    color: #66D9EF;
+}
+
+h2 {
+    color: #FD971F;
+}
+
+table {
+    border-style: ridge;
+}
+
+th {
+    background-color: #fd971f;
+    color: #272822;
+    margin: 0%;
+}
+
+.accent1 {
+    color: #fd971f;
+    background-color:#272822;
+}
+.accent2 {
+    color: #a6e22e;
+    background-color:#272822;
+}
+
+em {
+    color:#F92672;
 }
