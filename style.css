@@ -17,11 +17,13 @@ table {
 }
 
 th {
-    background-color: #fd971f;
-    color: #272822;
+    color: #fd971f;
+    background-color: #272822;
     margin: 0%;
+    border-style: none;
 }
 
+tr:nth-child(even) { background-color:#272822}
 .accent1 {
     color: #fd971f;
     background-color:#272822;
